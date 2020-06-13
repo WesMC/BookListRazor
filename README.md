@@ -7,3 +7,5 @@ It covers the following subject areas:
 - Basic understanding of middlewares
 - ADO.Net Entity Framework for model migrations to a Microsoft SQL Server Database
 - C.R.U.D. operations using API calls
+
+Currently in process of deploying to heroku
