@@ -6,7 +6,6 @@ Please see the [Live Site Preview](https://wmc-booklist-razor.herokuapp.com/Book
 
 It covers the following subject areas:
 
-- Understanding of middlewares
 - ADO.Net Entity Framework for model migrations to either a Microsoft SQL Server or PostgreSQL Database
 - ASP.NET Validations
 - C.R.U.D. operations using HTML helpers, Tag helpers, and API calls
